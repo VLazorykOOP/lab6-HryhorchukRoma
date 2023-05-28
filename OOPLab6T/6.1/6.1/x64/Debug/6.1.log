@@ -1,0 +1,5 @@
+﻿  6.1.cpp
+C:\Users\Yana\Desktop\Для Ромича\6.1\6.1\6.1.cpp(30,42): warning C4584: Derived5: базовый класс "Derived2" уже является базовым классом для "Derived4"
+C:\Users\Yana\Desktop\Для Ромича\6.1\6.1\6.1.cpp(15,7): message : см. объявление "Derived2"
+C:\Users\Yana\Desktop\Для Ромича\6.1\6.1\6.1.cpp(25,7): message : см. объявление "Derived4"
+  6.1.vcxproj -> C:\Users\Yana\Desktop\Для Ромича\6.1\x64\Debug\6.1.exe
